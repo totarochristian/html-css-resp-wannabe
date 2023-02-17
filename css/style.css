@@ -155,4 +155,10 @@ img {
         padding: 4rem 2rem 2rem 2rem;
         margin-top: -4rem;
     }
+    .why-us li{
+        padding-right: 1.5rem;
+    }
+    .why-us .row .col:last-child ul li:first-child{
+       padding-top: 4rem;
+    }
 }
