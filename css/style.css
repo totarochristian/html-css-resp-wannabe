@@ -147,4 +147,7 @@ img {
     .card{
         margin: 0 2rem 4rem 2rem;
     }
+    .row .col:last-child .card{
+        margin-bottom: 0.5rem;
+    }
 }
