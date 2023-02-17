@@ -145,15 +145,15 @@ img {
         width: 100%;
     }
     .card{
-        margin: 0 2rem 4rem 2rem;
+        margin: 0 3rem 4rem 3rem;
     }
     .row .col:last-child .card{
         margin-bottom: 0;
     }
     .why-us{
         background-color: #222222;
-        padding: 2rem 2rem 4rem 2rem;
-        margin-top: -4rem;
+        padding: 3rem 2rem 4rem 2rem;
+        margin-top: -3rem;
         margin-bottom: 0;
     }
     .why-us li{
@@ -161,5 +161,8 @@ img {
     }
     .why-us .row .col:last-child ul li:first-child{
        padding-top: 4rem;
+    }
+    .steps{
+        padding-bottom: 3rem;
     }
 }
