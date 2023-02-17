@@ -152,8 +152,9 @@ img {
     }
     .why-us{
         background-color: #222222;
-        padding: 4rem 2rem 2rem 2rem;
+        padding: 2rem 2rem 4rem 2rem;
         margin-top: -4rem;
+        margin-bottom: 0;
     }
     .why-us li{
         padding-right: 1.5rem;
